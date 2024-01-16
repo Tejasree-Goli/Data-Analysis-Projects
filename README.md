@@ -6,4 +6,8 @@ This repository contains all the projects related to Data Analysis (using Excel,
   <li> 2023 F1 Race Analysis </li>
         
     [Excel, Python, Google Colab, Exploratory Data Analysis] 
+  
+  <li> Data Analytics for ATM Transactions </li>
+      
+      [Power BI, Data Modeling, Excel]
 </ul>
