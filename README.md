@@ -10,4 +10,8 @@ This repository contains all the projects related to Data Analysis (using Excel,
   <li> Data Analytics for ATM Transactions </li>
       
       [Power BI, Data Modeling, Excel, Data Visualization, Presentation]
+
+  <li> Energy Consumption Dashboard </li>
+      
+      [Power BI, Data Modeling, Excel, Data Visualization, Presentation]
 </ul>
