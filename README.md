@@ -6,6 +6,10 @@ This repository contains all the projects related to Data Analysis (using Excel,
   <li> 2023 F1 Race Analysis </li>
         
     [Excel, Python, Google Colab, Exploratory Data Analysis] 
+
+  <li> Atliq Hardware Store's Sales Analysis </li>
+        
+    [Advanced Excel, Pivot tables, Data Analysis] 
   
   <li> Data Analytics for ATM Transactions </li>
       
